@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! - Data Science Student </h1>
+
+<h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>R
+- <b>SQL
+- <b>Tableau
+- <b>Excel
+- <b>Python
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**joshturnock1/joshturnock1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
